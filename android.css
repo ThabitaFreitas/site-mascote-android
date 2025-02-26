@@ -1,0 +1,9 @@
+ul li::before {
+    content: "✔";
+    color: green;
+}
+
+ul {
+    list-style: none; /* tira a marca da lista*/
+    column-count: 2; /* divide em duas colunas */
+}
