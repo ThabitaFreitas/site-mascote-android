@@ -3,7 +3,7 @@
 📌 Projeto desenvolvido durante o **Curso de HTML5 e CSS3** do professor Gustavo Guanabara (CursoemVideo).  
 O site conta a história de como o Android ganhou seu icônico mascote e explora a evolução das versões do sistema.  
 
-![Preview do Site](imagens/preview-site.png).  
+![Preview do Site](preview-site.png).  
 
 ## 🛠️ Tecnologias  
 - **HTML5** (semântica: `header`, `main`, `footer`, `article`, etc.)  
