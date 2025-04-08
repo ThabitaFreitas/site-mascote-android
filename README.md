@@ -19,4 +19,4 @@ O site conta a história de como o Android ganhou seu icônico mascote e explora
 ## ⚙️ Como Executar Localmente  
 1. Clone o repositório:  
 git clone
-https://github.com/seu-usuario/criacao-mascote-android.git  
+https://github.com/ThabitaFreitas/criacao-mascote-android.git  
